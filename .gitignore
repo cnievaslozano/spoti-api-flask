@@ -1,0 +1,5 @@
+# Ignorar  .cache
+.cache
+
+# Ignorar archivos .env
+.env
